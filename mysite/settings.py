@@ -25,7 +25,7 @@ SECRET_KEY = 'y)9*)897%j9z9t0#b)__uhy$h74_+qq@aqz+_c_p$t4l&*p*6&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<cleverbeauty>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'cleverbeauty.pythonanywhere.com']
 
 
 # Application definition
